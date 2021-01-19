@@ -1,0 +1,244 @@
+.content {
+    min-height: 596px;
+    width: 100%;
+    background-color: #87509c;
+    position: relative;
+}
+
+.logo {
+    position: absolute;
+    top: 57px;
+    left: 212px;
+    margin: 0 auto;
+}
+
+.nav {
+    position: absolute;
+    top: 65px;
+    right: 195px;
+}
+
+.nav-list li{
+color: #ffffff;
+font-family: "Titillium Web", sans-serif;
+font-size: 16px;
+line-height: 18px;
+text-transform: uppercase;
+display: inline-block;
+margin: 0px 40px 0px 0px;
+}
+
+.nav-list a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav-list li:last-child {
+    margin: 0;
+}
+
+.nav-list li:nth-child(1) {
+    background-color: #643a79;
+    height: 32px;
+    width: 63px;
+    line-height: 32px;
+    padding: 0px 0px 0px 15px;
+    border-radius: 3px;
+}
+
+.title {
+    padding: 220px 260px 250px;
+    margin: 0 auto;
+
+}
+
+.title p{
+    text-align: center;
+    color: #f7f3ea;
+    font-family: "Titillium Web", sans-serif;
+    font-size: 33px;
+    line-height: 40px;
+    font-weight: 700;
+}
+
+.button {
+    text-decoration: none;
+    color: #fff;
+    width: 293px;
+    height: 70px;
+    background-color: #eb7d4b;
+    text-align: center;
+    line-height: 70px;
+    text-decoration: none;
+    border-radius: 5px;
+    box-shadow: 0px 4px #c86a40;
+    display: inline-block;
+    position: absolute;
+    bottom: 145px;
+    left: 500px;
+}
+
+.content-button span {
+    color: #ffffff;
+    font-family: "Titillium Web", "Semi bold", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.27px;
+}
+
+.content2 {
+    height: 742px;
+    width: 100%;
+    background-color: #17c2a4;
+}
+
+.h2 {
+    color: #ffffff;
+    font-family: "Titillium Web", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 29.91px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    padding: 110px 0px 21px;
+}
+
+.content-line {
+    width: 88;
+    margin: 0 auto;
+}
+
+.working {
+color: #ffffff;
+font-family: "Titillium Web", sans-serif;
+font-size: 18px;
+line-height: 26px;
+text-align: center;
+letter-spacing: 0.36px;
+margin: 20px 0px 0px 0px;
+}
+
+.flag {
+    max-width: 210;
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 78px 0px 0px 150px;
+    display: inline-block;
+}
+
+.flag img {
+    margin: 0px 0px 62px 0px;
+}
+
+.flag h2{
+color: #ffffff;
+font-size: 24px;
+font-weight: 700;
+line-height: 18px;
+text-transform: uppercase;
+letter-spacing: 0.48px;
+margin: 0px 0px 27px 0px;
+}
+
+.flag p {
+color: #ffffff;
+font-size: 16px;
+font-weight: 300;
+line-height: 24px;
+letter-spacing: 0.32px;
+}
+
+.pen {
+    max-width: 210;
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 78px 0px 0px 50px;
+    display: inline-block;
+}
+
+.pen img {
+    margin: 0px 0px 62px 0px;
+}
+
+.pen h2{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.48px;
+    margin: 0px 0px 27px 0px;
+}
+
+.pen p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.settings {
+    max-width: 210;
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 78px 0px 0px 50px;
+    display: inline-block;
+}
+
+.settings img {
+    margin: 0px 0px 62px 0px;
+}
+
+.settings h2{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.48px;
+    margin: 0px 0px 27px 0px;
+}
+
+.settings p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.racet {
+    max-width: 210;
+    font-family: "Titillium Web", sans-serif;
+    text-align: center;
+    border: 1px solid #000;
+    margin: 78px 0px 0px 50px;
+    display: inline-block;
+}
+
+.racet img {
+    margin: 0px 0px 62px 0px;
+}
+
+.racet h2{
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0.48px;
+    margin: 0px 0px 27px 0px;
+}
+
+.racet p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
